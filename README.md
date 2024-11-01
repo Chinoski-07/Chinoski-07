@@ -42,22 +42,6 @@ Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualme
 
 ---
 
-## 🎖 Insignias y Logros
-<p align="center">
-  <img src="https://img.shields.io/badge/QGIS-User%20Certified-brightgreen" alt="Certificación en QGIS" />
-  <img src="https://img.shields.io/badge/Python-Professional-blue" alt="Usuario avanzado de Python" />
-</p>
-
----
-
-## 🛠 Herramientas que uso
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
-
----
-
 ¡Gracias por visitar mi perfil! 🌍 Estoy en constante aprendizaje y abierto a colaborar en proyectos relacionados con el medioambiente y la tecnología.
+
 
