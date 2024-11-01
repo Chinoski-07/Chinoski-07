@@ -4,6 +4,9 @@
 ---
 
 ## 👨‍💻 Acerca de mí
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6rjLa8zexm3lC/giphy.gif" width="50" />
+</p>
 Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualmente cursando el sexto semestre. Me interesa integrar tecnología y sostenibilidad para crear soluciones innovadoras. Mi enfoque principal está en la consultoría ambiental y análisis de proyectos de energía renovable. También me interesa el desarrollo de software enfocado en la sostenibilidad.
 
 ---
@@ -20,6 +23,10 @@ Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualme
 - **Desarrollo de Proyectos Ambientales:** Evaluación de impacto ambiental, estudios de biodiversidad
 - **Habilidades Interpersonales:** Liderazgo, comunicación, empatía, adaptación al cambio
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" />
+</p>
+
 ---
 
 ## 📊 Mis estadísticas de GitHub
@@ -31,6 +38,10 @@ Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualme
 ---
 
 ## 🌐 Encuéntrame en otros sitios
+<p align="center">
+  <img src="https://media.giphy.com/media/5xaOcLTbLxZ9g6C4YlK/giphy.gif" width="50" />
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/vicente-z%C3%BA%C3%B1iga-rosende-691b51233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,5 +54,9 @@ Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualme
 ---
 
 ¡Gracias por visitar mi perfil! 🌍 Estoy en constante aprendizaje y abierto a colaborar en proyectos relacionados con el medioambiente y la tecnología.
+<p align="center">
+  <img src="https://media.giphy.com/media/xThtaoCev8fG5HZdyA/giphy.gif" width="200" />
+</p>
+
 
 
