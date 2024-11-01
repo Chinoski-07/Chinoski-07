@@ -1,41 +1,27 @@
-<h1 align="center">¡Hola! Soy Vicente Eduardo Zúñiga Rosende 👋</h1>
-<p align="center">Ingeniero en Medioambiente y Sustentabilidad | Apasionado por la tecnología y la sostenibilidad 🌱</p>
+<h1 align="center">¡Hola! Soy Vicente Zúñiga Rosende </h1>
+<p align="center">Ingeniero en Medioambiente y Sustentabilidad | Apasionado por la tecnología y la sostenibilidad </p>
 
 ---
 
 ## 👨‍💻 Acerca de mí
-Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualmente cursando el sexto semestre. Me interesa integrar tecnología y sostenibilidad para crear soluciones innovadoras. Mi enfoque principal está en la consultoría ambiental, análisis de proyectos de energía renovable y monitoreo de calidad del agua. También me interesa el desarrollo de software enfocado en la sostenibilidad.
+Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualmente cursando el sexto semestre. Me interesa integrar tecnología y sostenibilidad para crear soluciones innovadoras. Mi enfoque principal está en la consultoría ambiental y análisis de proyectos de energía renovable. También me interesa el desarrollo de software enfocado en la sostenibilidad.
 
 ---
 
 ## 🛠 Habilidades Técnicas
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-3A5FCD?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-- **Lenguajes de Programación:** Python, SQL, R
-- **Herramientas de Análisis Ambiental:** QGIS, ArcGIS, herramientas de mapeo de datos
-- **Sostenibilidad:** Auditoría ambiental, monitoreo de calidad del agua, análisis de huella de carbono
+- **Lenguajes de Programación:** R
+- **Herramientas de Análisis Ambiental:** QGIS, herramientas de mapeo de datos
+- **Sostenibilidad:** Auditoría ambiental, análisis de huella de carbono
 - **Desarrollo de Proyectos Ambientales:** Evaluación de impacto ambiental, estudios de biodiversidad
 - **Habilidades Interpersonales:** Liderazgo, comunicación, empatía, adaptación al cambio
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🌍 [Proyecto de Análisis de Calidad del Agua](https://github.com/tuusuario/proyecto-calidad-agua)
-- Analicé datos de calidad de agua en áreas protegidas de Chile, utilizando Python y QGIS. Incluye visualización de datos y análisis de tendencias en la calidad del agua.
-
-### ♻️ [Huella de Carbono Corporativa](https://github.com/tuusuario/huella-carbono)
-- Desarrollé una herramienta para estimar la huella de carbono de pequeñas empresas, integrando datos de consumo energético y transporte.
-
-### 🔥 [Auditoría Ambiental para Zonas Protegidas](https://github.com/tuusuario/auditoria-ambiental)
-- Proyecto de auditoría ambiental en reservas naturales, con informes de calidad de suelo y aire utilizando Python y QGIS para análisis de datos.
-
----
 
 ## 📊 Mis estadísticas de GitHub
 <p align="center">
