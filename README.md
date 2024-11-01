@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Vicente Zúñiga Rosende </h1>
-<p align="center">Ingeniero en Medioambiente y Sustentabilidad | Apasionado por la tecnología y la sostenibilidad </p>
+<p align="center">Ingeniero en Medioambiente y Sustentabilidad | Enfocado en tecnología y sostenibilidad </p>
 
 ---
 
@@ -22,18 +22,17 @@ Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualme
 
 ---
 
-
 ## 📊 Mis estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula" alt="Estadísticas de GitHub de Vicente" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinoski-07&show_icons=true&theme=dracula" alt="Estadísticas de GitHub de Vicente" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinoski-07&layout=compact&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ## 🌐 Encuéntrame en otros sitios
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/vicente-z%C3%BA%C3%B1iga-rosende-691b51233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vicentezrosende@gmail.com" target="_blank">
@@ -61,3 +60,4 @@ Soy estudiante de Ingeniería en Medioambiente en la Universidad Mayor, actualme
 ---
 
 ¡Gracias por visitar mi perfil! 🌍 Estoy en constante aprendizaje y abierto a colaborar en proyectos relacionados con el medioambiente y la tecnología.
+
