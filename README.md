@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:52b788&height=220&section=header&text=Vicente%20Z%C3%BA%C3%B1iga%20Rosende&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Environmental%20Engineering%20%7C%20Sustainability%20%26%20Technology&descSize=16&descAlignY=58&animation=fadeIn)
+
 
 </div>
 
