@@ -15,7 +15,6 @@
 
 I am an **Environmental Engineering student** at Universidad Mayor, currently in my **9th semester**. I am passionate about integrating technology and sustainability to create innovative, data-driven solutions for real environmental challenges.
 
-- 🔭 Currently working on **environmental consulting and renewable energy project analysis**
 - 🌱 Interested in **environmental data science, GIS mapping, and carbon footprint analysis**
 - 💡 Developing **software tools focused on sustainability and environmental impact**
 - 🤝 Open to collaborating on **open-source environmental projects**
@@ -44,19 +43,10 @@ I am an **Environmental Engineering student** at Universidad Mayor, currently in
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinoski-07&show_icons=true&theme=dracula" alt="GitHub Stats of Vicente" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinoski-07&layout=compact&theme=dracula" alt="Most Used Languages" />
-</p>
-
----
-
 ## 🎓 Education
 
 **Environmental Engineering** — Universidad Mayor, Chile
-📅 9th Semester (2025-2026)
+📅 9th Semester (2022-2026)
 - Focus: Environmental consulting, renewable energy, sustainability
 
 ---
